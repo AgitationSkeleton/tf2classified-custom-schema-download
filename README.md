@@ -169,7 +169,7 @@ The compiled plugin is written to `build/tf2c_custom_schema_download.smx`.
 
 ## References
 
-- [TF2 Classified 3.0.11 hosting instructions](https://store.steampowered.com/news/posts/?enddate=1782179470&feed=steam_community_announcements)
+- [TF2 Classified 3.0.11 hosting instructions](https://store.steampowered.com/news/app/3545060/view/696515479307551991)
 - [TF2 Classified custom weapon basics](https://wiki.tf2classified.com/wiki/Creating_custom_weapons_-_basics)
 
 ## License
